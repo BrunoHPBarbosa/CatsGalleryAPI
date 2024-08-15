@@ -19,4 +19,5 @@ I think that in this test, what turns a lot of people off is the fact that the a
 
 and so we have the cutest result on your screen 
 
-![Screenshot_20240815_134835](https://github.com/user-attachments/assets/b046bcba-1e7b-4265-b322-ddbda775fb50)
+<img src="https://github.com/user-attachments/assets/b046bcba-1e7b-4265-b322-ddbda775fb50" width="250"/>
+
